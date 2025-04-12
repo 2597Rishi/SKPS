@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shri Krishna Public School (SKPS)</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <div class="logo">SKPS</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#admission">Admission</a></li>
+        <li><a href="#academic">Academic</a></li>
+        <li><a href="#event">Event</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#roles">Roles</a></li>
+        <li><a href="#careers">Careers</a></li>
+        <li><a href="#students">Students Record</a></li>
+        <li><a href="#result">Result</a></li>
+        <li><a href="#test">Test</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1>Welcome to Shri Krishna Public School</h1>
+    <p>Empowering students for a bright future</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>SKPS is committed to providing quality education to nurture young minds...</p>
+  </section>
+
+  <section id="admission">
+    <h2>Admission</h2>
+    <p>Admissions are open for the academic year. Join our SKPS family today!</p>
+  </section>
+
+  <section id="academic">
+    <h2>Academic</h2>
+    <p>Our curriculum is designed to balance academics, values, and life skills.</p>
+  </section>
+
+  <section id="event">
+    <h2>Events</h2>
+    <p>Check out our upcoming school events and celebrations.</p>
+  </section>
+
+  <section id="gallery">
+    <h2>Gallery</h2>
+    <p>Explore our school activities through photos and videos.</p>
+  </section>
+
+  <section id="roles">
+    <h2>Roles</h2>
+    <p>Meet our school leadership and staff.</p>
+  </section>
+
+  <section id="careers">
+    <h2>Careers</h2>
+    <p>Join our team and help shape the future of education.</p>
+  </section>
+
+  <section id="students">
+    <h2>Students Record</h2>
+    <p>Access student achievements, attendance, and performance.</p>
+  </section>
+
+  <section id="result">
+    <h2>Result</h2>
+    <p>Check the latest academic results for all classes.</p>
+  </section>
+
+  <section id="test">
+    <h2>Test</h2>
+    <p>Mock tests and practice materials for students.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@skps.edu | Phone: +91-XXXX-XXX-XXX</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Shri Krishna Public School | All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
